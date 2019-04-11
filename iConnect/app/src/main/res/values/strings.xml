@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">iConnect</string>
+    <string name="Send">Send</string>
+    <string name="LogIn">Log In</string>
+    <string name="camera">Camera</string>
+    <string name="gallery">Gallery</string>
+    <string name="about_us">About Us</string>
+    <string name="log_out">Log out</string>
+    <string name="close">Close</string>
+    <string name="open">Open</string>
+    <string name="chat_room">CHAT ROOM</string>
+    <string name="friends">FRIENDS</string>
+    <string name="top_chatter">TOP CHATTERS :</string>
+    <string name="hint">  Enter your name ...</string>
+</resources>

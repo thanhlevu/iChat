@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">iConnect</string>
+    <string name="Send">Gửi</string>
+    <string name="camera">Camera</string>
+    <string name="top_chatter">TOP CHAT</string>
+    <string name="LogIn">"Đăng Nhập "</string>
+    <string name="gallery">"Thư Viện Ảnh "</string>
+    <string name="about_us">"Thông Tin "</string>
+    <string name="log_out">"Đăng Xuất "</string>
+    <string name="close">"Đóng "</string>
+    <string name="open">Mở</string>
+    <string name="chat_room">"PHÒNG CHAT "</string>
+    <string name="friends">"BẠN BÈ "</string>
+    <string name="hint">"Đăng ký tên ... "</string>
+</resources>

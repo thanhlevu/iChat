@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/camera" android:title="@string/camera" android:icon="@drawable/ic_camera_alt_black_24dp"/>
+    <item android:id="@+id/gallery" android:title="@string/gallery" android:icon="@drawable/ic_collections_black_24dp"/>
+    <item android:id="@+id/about_us" android:title="@string/about_us" android:icon="@drawable/ic_live_help_black_24dp"/>
+    <item android:id="@+id/log_out" android:title="@string/log_out" android:icon="@drawable/ic_exit_to_app_black_24dp"/>
+</menu>
